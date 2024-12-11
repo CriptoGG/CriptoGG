@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CriptoGG
 - 👀 I’m interested in Pokemon and Videogames
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and Godot
 - 📫 How to reach me IDK
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: IDK
