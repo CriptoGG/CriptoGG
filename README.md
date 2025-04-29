@@ -5,7 +5,6 @@
 For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/widgets?utm_source=github&utm_medium=referral), here are some examples:
 
 | My Stats |
-|----------|
 |<!-- Copy-paste in your Readme.md file -->
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=125551491" target="_blank" style="display: block" align="center">
@@ -18,8 +17,7 @@ For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->|
 
 
-| Currently Working On - Last 28 days | Top Active Contributors - Last 28 Days |
-| ----------- | ----------- |
+| Currently Working On - Last 28 days |
 |<!-- Copy-paste in your Readme.md file -->
 
 <a href="https://next.ossinsight.io/widgets/official/compose-currently-working-on?user_id=125551491&activity_type=all" target="_blank" style="display: block" align="center">
@@ -30,9 +28,6 @@ For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/
 </a>
 
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->|
-
-| Repository Annual Ranking | Find More |
-| ----------- | ----------- |
 
 
 
