@@ -1,9 +1,5 @@
 <h1 align="center">Hello Im Cripto</h1>
 ## Introduction
-
-
-For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/widgets?utm_source=github&utm_medium=referral), here are some examples:
-
 | My Stats |
 |<!-- Copy-paste in your Readme.md file -->
 
