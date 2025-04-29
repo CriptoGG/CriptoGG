@@ -19,6 +19,7 @@ Frontend: React, TailwindCSS, HTML/CSS
 Backend: Node.js
 Databases: MySQL
 Tools: Git, Docker, VS Code, Linux, Terminal
+```
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CriptoGG&show_icons=true&theme=tokyonight" width="47%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CriptoGG&theme=tokyonight" width="47%" />
